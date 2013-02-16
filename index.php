@@ -21,7 +21,7 @@
     \Slim\Slim::registerAutoloader();
 
     /*
-    require 'Models/index.php';
+    require 'Models/example_model.php';
     ORM::configure('mysql:host=localhost;dbname=Database');
     ORM::configure('username','USERNAME');
     ORM::configure('password','PASSWORD');

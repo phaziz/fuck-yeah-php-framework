@@ -109,7 +109,7 @@
     <script>
         
         $(function() {
-            alert('ready');
+
         });
         
     </script>

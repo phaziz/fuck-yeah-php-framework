@@ -1,0 +1,14 @@
+User-agent: *
+Disallow: /Helper
+Disallow: /Models
+Disallow: /Slim
+Disallow: /Templates
+Disallow: /Views
+
+User-agent: Googlebot
+Disallow: /*.gif$
+Disallow: /*.jpg$
+Disallow: /*.pdf$
+Disallow: /*.png$
+
+Sitemap: 

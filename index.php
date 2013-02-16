@@ -9,7 +9,7 @@
         $_SESSION["s_id"] = session_id(); 
     }
 
-    define('_BASE_URL',$_SERVER['DOCUMENT_ROOT']);
+    define('_BASE_URL','');
     define('_SOFTWARE_VERSION','1.0.0');
 
     /*

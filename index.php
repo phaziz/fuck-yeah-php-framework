@@ -1,26 +1,23 @@
 <?php    
 
-    ini_set('use_trans_sid', '');
     session_cache_limiter(false);
     session_start();
-
-    if (empty($_SESSION)) {
-        session_regenerate_id(true);
-        $_SESSION["s_id"] = session_id(); 
-    }
 
     define('_BASE_URL','');
     define('_SOFTWARE_VERSION','1.0.0');
 
     /*
+     * Only required for Database actions...
 	require 'Helper/idiorm.php';
     require 'Helper/paris.php';
 	*/
+	
     require 'Slim/Slim.php';
 
     \Slim\Slim::registerAutoloader();
 
     /*
+     * Only required for Database actions...
     require 'Models/example_model.php';
     ORM::configure('mysql:host=localhost;dbname=Database');
     ORM::configure('username','USERNAME');

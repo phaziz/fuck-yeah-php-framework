@@ -1,0 +1,52 @@
+.main_content{
+margin-top: 100px;
+font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+font-size: 1.8em;
+letter-spacing: 0.1em;
+line-height: 1.9em;
+color: #ff0033;
+font-weight: 100;
+}
+.main_content_news{
+margin-top: 300px;
+font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+font-size: 1.2em;
+letter-spacing: 0.1em;
+line-height: 1.4em;
+color: #000;
+font-weight: 100;
+}
+.main_content_game{
+margin-top: 50px;
+font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+font-size: 1.8em;
+letter-spacing: 0.1em;
+line-height: 1.9em;
+color: #ff0033;
+font-weight: 100;
+}
+.container{
+margin: 0 auto;
+padding: 1em;
+max-width: 80%;
+}
+.center{
+text-align: center;
+}
+.margin-top-100{
+margin-top: 100px;
+}
+a:link,
+a:active,
+a:visited{
+color: #ff0033;
+text-decoration: underline;
+}
+a:hover{
+color: #ff0066;
+text-decoration: none;
+}
+.page_gal{
+width: 100%;
+height: 450px;
+}

@@ -1,8 +1,9 @@
 # fuck-yeah-php-framework
 
-## What ?
+## What?
 
-Minimal App-Framework based on PHP5, Slim Framework, Idiorm & Paris, jQuery and Twitter's Bootstrap.
+Minimal App-Framework/CMS based on PHP5, Slim Framework, Idiorm & Paris, jQuery and Pure CSS Framwork (YUI).
+Including a Markdown Parser vor Content Management, News-System, ...
 
 ### Demo?
 <http://fypf.phaziz.com/>

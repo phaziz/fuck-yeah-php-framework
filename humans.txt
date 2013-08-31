@@ -1,0 +1,12 @@
+/* TEAM */
+Your title:
+Site:
+Twitter:
+Location:
+/* THANKS */
+Name: WWW :-)
+/* SITE */
+Last update: 2013/08/31
+Standards: HTML5, CSS3, jQuery
+Components: jQuery, Yui Grid, Normalize.css, Slim-PHP5-Framework
+Software: Aptana IDE, Google Chrome, Slim-PHP5-Framework

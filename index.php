@@ -1,8 +1,5 @@
 <?php    
 
-    session_cache_limiter(false);
-    session_start();
-
     define('_BASE_URL','');
     define('_SOFTWARE_VERSION','1.0.0');
 
